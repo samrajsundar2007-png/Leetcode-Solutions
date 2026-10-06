@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/1108-defanging-an-ip-address) |
