@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0205-isomorphic-strings](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0290-word-pattern](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0290-word-pattern) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0867-transpose-matrix](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [2643-row-with-maximum-ones](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/2643-row-with-maximum-ones) |
