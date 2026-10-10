@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0704-binary-search](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [2643-row-with-maximum-ones](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/2643-row-with-maximum-ones) |
@@ -89,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
