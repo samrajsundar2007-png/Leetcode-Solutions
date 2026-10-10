@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1572-matrix-diagonal-sum](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [2643-row-with-maximum-ones](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/2643-row-with-maximum-ones) |
 ## Hash Table
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0905-sort-array-by-parity](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0905-sort-array-by-parity](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
