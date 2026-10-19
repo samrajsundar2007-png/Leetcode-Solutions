@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0136-single-number) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Two Pointers
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0242-valid-anagram) |
@@ -96,12 +98,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0867-transpose-matrix](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 ## Math
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0048-rotate-image) |
+| [0067-add-binary](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 ## Stack
 |  |
