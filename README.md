@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -183,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
