@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0500-keyboard-row](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0500-keyboard-row) |
 | [0704-binary-search](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0290-word-pattern) |
 | [0409-longest-palindrome](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
+| [0500-keyboard-row](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0500-keyboard-row) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Sorting
 |  |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
+| [0500-keyboard-row](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0500-keyboard-row) |
 | [0709-to-lower-case](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0796-rotate-string) |
 | [1108-defanging-an-ip-address](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/1108-defanging-an-ip-address) |
