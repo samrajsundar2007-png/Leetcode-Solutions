@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0196-delete-duplicate-emails](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0196-delete-duplicate-emails) |
 | [0511-game-play-analysis-i](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0511-game-play-analysis-i) |
 | [0577-employee-bonus](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0584-find-customer-referee) |
