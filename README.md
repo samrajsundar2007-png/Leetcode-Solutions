@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0500-keyboard-row](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0500-keyboard-row) |
 | [0704-binary-search](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0704-binary-search) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0242-valid-anagram) |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0905-sort-array-by-parity](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
@@ -235,4 +238,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1211-queries-quality-and-percentage](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/1251-average-selling-price) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
