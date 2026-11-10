@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1251-average-selling-price](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/1280-students-and-examinations) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/1327-list-the-products-ordered-in-a-period) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 ## Divide and Conquer
 |  |
 | ------- |
