@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0796-rotate-string) |
 | [1108-defanging-an-ip-address](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/1108-defanging-an-ip-address) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 ## Greedy
 |  |
 | ------- |
