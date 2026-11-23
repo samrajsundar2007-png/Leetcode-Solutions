@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1352-product-of-the-last-k-numbers](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1572-matrix-diagonal-sum](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [2643-row-with-maximum-ones](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/2643-row-with-maximum-ones) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+| [1352-product-of-the-last-k-numbers](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Stack
 |  |
@@ -269,4 +271,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/0169-majority-element) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/samrajsundar2007-png/Leetcode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
